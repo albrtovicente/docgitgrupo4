@@ -3,7 +3,7 @@ El comando git branch -d indica que se quiere eliminar la rama de forma segura. 
 ````bash
 git branch -d <branchname>
 ````
-El comnado git branch -D fuerza la eliminación de la rama, incluso si no está completamente fusionada.
+El comanado git branch -D fuerza la eliminación de la rama, incluso si no está completamente fusionada.
 ````bash
 git branch -D <branchname>
 ````
